@@ -5,3 +5,4 @@ public class demo1 {
         System.out.println(y);
     }
 }
+//循环语句 for while do-while
