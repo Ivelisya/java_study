@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25acc531-f626-4982-bd0c-638a3cc6d14c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/java_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java_homework_1/demo8/src/day_1/day_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFirstModule/TestFirstModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFirstModule/src/test1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFirstModule/src/test1/TestVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/day_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_1/src/demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/day_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/src/demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_2/src/demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java_homework_1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFirstModule/src/test1/TestType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vmx9qhdGa6fGoNvJ4UAUvWPIPd" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,7 +50,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Github/java_study/study/day_1/TestFirstModule/src/Main.java",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
     "应用程序.HelloWorld.executor": "Run"
   }
@@ -118,6 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1744763901893</updated>
       <workItem from="1744763903024" duration="3514000" />
+      <workItem from="1744767999579" duration="2796000" />
+      <workItem from="1744806342859" duration="26000" />
     </task>
     <servers />
   </component>
