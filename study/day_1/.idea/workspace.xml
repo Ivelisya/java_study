@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25acc531-f626-4982-bd0c-638a3cc6d14c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/TestFirstModule/src/test1/TestType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25acc531-f626-4982-bd0c-638a3cc6d14c" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +41,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,6 +91,7 @@
       <workItem from="1744763903024" duration="3514000" />
       <workItem from="1744767999579" duration="2796000" />
       <workItem from="1744806342859" duration="26000" />
+      <workItem from="1745926481989" duration="65000" />
     </task>
     <servers />
   </component>
