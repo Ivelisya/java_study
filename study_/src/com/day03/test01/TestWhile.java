@@ -1,4 +1,4 @@
-package com.day03;
+package com.day03.test01;
 
 public class TestWhile {
     public static void main(String[] args) {
@@ -24,7 +24,7 @@ public class TestWhile {
         // }
         // System.out.println("1 + 2 + 3 + 4 + 5 = " + sum);
         int sum = 0;
-        for(int num = 1;num <= 5;num++){
+        for (int num = 1; num <= 5; num++) {
             sum += num;
         }
         System.out.println("1 + 2 + 3 + 4 + 5 = " + sum);
