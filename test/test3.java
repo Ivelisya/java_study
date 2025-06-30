@@ -10,6 +10,7 @@
             this.side_length = side_length;
         }
         @Override
+        
         public double getArea(){
             return side_length * side_length;
         }
